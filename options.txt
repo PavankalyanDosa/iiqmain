@@ -10,3 +10,6 @@ options 4
 options 5
 options 6
 options 7
+test 6
+test 7
+
